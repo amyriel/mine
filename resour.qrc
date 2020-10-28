@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/clicked.jpg</file>
+        <file>../images/face1.jpg</file>
+        <file>../images/face2.jpg</file>
+        <file>../images/face3.jpg</file>
+        <file>../images/face4.jpg</file>
+        <file>../images/flag.jpg</file>
+        <file>../images/mine.jpg</file>
+        <file>../images/not_mine.jpg</file>
+        <file>../images/num1.jpg</file>
+        <file>../images/num2.jpg</file>
+        <file>../images/num3.jpg</file>
+        <file>../images/num4.jpg</file>
+        <file>../images/num5.jpg</file>
+        <file>../images/num6.jpg</file>
+        <file>../images/num7.jpg</file>
+        <file>../images/num8.jpg</file>
+        <file>../images/unclicked.jpg</file>
+        <file>../images/untitled2_01.png</file>
+        <file>../images/untitled2_02.png</file>
+        <file>../images/untitled2_03.png</file>
+        <file>../images/untitled2_04.png</file>
+        <file>../images/untitled2_05.png</file>
+        <file>../images/untitled2_06.png</file>
+        <file>../images/untitled2_07.png</file>
+        <file>../images/untitled2_08.png</file>
+        <file>../images/untitled2_09.png</file>
+        <file>../images/untitled2_10.png</file>
+        <file>../images/untitled2_11.png</file>
+        <file>../images/untitled2_12.png</file>
+        <file>../images/untitled2_13.png</file>
+        <file>../images/untitled3_01.png</file>
+        <file>../images/untitled3_02.png</file>
+        <file>../images/untitled3_03.png</file>
+        <file>../images/untitled3_04.png</file>
+    </qresource>
+</RCC>
